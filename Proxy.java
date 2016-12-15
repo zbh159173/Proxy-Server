@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.SynchronousQueue;
 
 /**
- * Created by Ningyu He on 2016/11/29.
+ * Created by Binhe Zhou on 2016/11/29.
  */
 public class Proxy {
     public static int count = 0;
