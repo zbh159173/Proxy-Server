@@ -13,7 +13,7 @@ import java.net.*;
 
 
 /**
- * Created by Ningyu He on 2016/11/29.
+ * Created by Binhe Zhou on 2016/11/29.
  */
 public class RequestThread implements Runnable {
 
